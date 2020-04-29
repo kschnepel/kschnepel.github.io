@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kevin Schnepel"
 title_separator          : "-"
 name                     : &name "Kevin Schnepel"
-description              : &description "Assistant Professor of Economics, Simon Fraser University"
+description              : &description "economics professor at Simon Fraser University"
 url                      : https://kschnepel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kevin Schnepel"
   avatar           : "profile.png"
-  bio              : "Assistant Professor, Department of Economics"
-  location         : "Vancouver"
-  employer         : "Simon Fraser University"
+  bio              : "Assistant Professor of Economics at Simon Fraser University"
+  location         : "British Columbia, Canada"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KnrxUYQAAAAJ&hl=en"
   email            : "kevin_schnepel@sfu.ca"
