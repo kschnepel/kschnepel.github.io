@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my new website! I am an economist at Simon Fraser University working across several fields of applied microeconomics. My research utilizes large administrative data sets to inform policy makers about the impact of health, environmental, social, and criminal justice policies on a variety of outcomes. I am particularly interested in better understanding the causes of crime ranging from early-life health influences to labor-market factors that affect individuals released from prison. 
 
+Primary fields: Economics of Crime, Health Economics, Labor Economics, Environmental Economics
+
 
 
 
