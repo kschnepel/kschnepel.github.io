@@ -10,10 +10,7 @@ redirect_from:
 
 Welcome to my new website! 
 
-Recent research
-======
-What I'm working on... 
 
-Cool links
-======
+
+
 
