@@ -1,7 +1,7 @@
 ---
 title: "Economics of Incarceration"
 collection: research
-permalink: /research/2016-EconomicsIncarceration-paper-2.md
+permalink: /research/2016-EconomicsIncarceration-paper-2
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-11-01
 venue: 'Australian Economic Review'
