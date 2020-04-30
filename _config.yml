@@ -83,7 +83,7 @@ author:
   name             : "Kevin Schnepel"
   avatar           : "websitepic.png"
   bio              : "Assistant Professor of Economics at Simon Fraser University"
-  location         : "British Columbia" :maple_leaf:
+  location         : "British Columbia :maple_leaf: "
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=KnrxUYQAAAAJ&hl=en"
@@ -244,6 +244,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
