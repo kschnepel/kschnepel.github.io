@@ -1,7 +1,7 @@
 ---
 title: "College Football Games and Crime"
 collection: research
-permalink: /research/2009-CollegeFootballCrime-paper-number-1
+permalink: /research/2009-CollegeFootballCrime-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-02-01
 venue: 'Journal of Sports Economics'
