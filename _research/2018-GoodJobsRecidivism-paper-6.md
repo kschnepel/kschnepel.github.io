@@ -1,7 +1,7 @@
 ---
 title: "Good Jobs and Recidivism"
 collection: research
-permalink: /research/2018-GoodJobsRecidivism-paper-7
+permalink: /research/2018-GoodJobsRecidivism-paper-6
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-02-01
 venue: 'The Economic Journal'
