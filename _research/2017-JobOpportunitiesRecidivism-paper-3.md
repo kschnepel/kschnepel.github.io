@@ -12,3 +12,5 @@ venue: 'IZA World of Labor'
 Citation: Schnepel, Kevin T. (2017). &quot;Do post-prison job opportunities reduce recidivism?.&quot; <i>IZA World of Labor</i>. 399.
 
 [Link to paper.](https://wol.iza.org/uploads/articles/399/pdfs/do-post-prison-job-opportunities-reduce-recidivism.pdf?v=1)
+
+[IZA Opinions Commentary.](https://wol.iza.org/opinions/can-jobs-reduce-recidivism)
