@@ -9,7 +9,7 @@ venue: 'Journal of Sports Economics'
 #citation: 'Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics</i>. 10(1).'
 ---
 
-Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics 1</i>. 10(1).
+Citation: Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics</i>. 10(1).
 
 [Link to paper on journal website](https://doi.org/10.1177/1527002508327389) *feel free to e-mail me for a copy if you do not have access*
 
