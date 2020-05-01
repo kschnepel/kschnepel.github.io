@@ -13,6 +13,8 @@ Citation: Mueller-Smith, Michael, & Kevin T. Schnepel (2020). &quot;Diversion in
 
 [Download most recent version.](http://kschnepel.github.io/files/Diversion.pdf) 
 
+Media coverage: [My own podcast interview for Probable Causation](https://www.probablecausation.com/podcasts/episode-5-kevin-schnepel) 
+
 **Abstract:** This paper provides the first causal estimates on the popular, cost-saving practice of
 diversion in the criminal justice system, an intervention that provides offenders with a
 second chance to avoid a criminal record. We exploit two natural experiments in Harris
