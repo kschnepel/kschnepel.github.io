@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2020-UsualSuspects-paper-9.md
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-03-01
-venue: 'revision resubmitted to *Journal of Human Resources*'
+venue: '<i>revision resubmitted to<i> Journal of Human Resources'
 #paperurl: 'http://kschnepel.github.io/files/UsualSuspects.pdf'
 #citation: 'Billings, Stephen B., & Kevin T. Schnepel (2020). &quot;Hanging Out with the Usual Suspects: Peer Effects and Recidivism.&quot; <i>Working Paper</i>.'
 ---
