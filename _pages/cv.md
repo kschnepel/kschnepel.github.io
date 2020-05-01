@@ -17,10 +17,10 @@ Education
 * M.A. in Economics, University of Colorado Denver, 2007
 * Ph.D in Economics, Uninversity of California Santa Barbara, 2013 
 
-Academic Appointments
+Primary Academic Appointments
 ======
-* 2013-2018: Assistant Professor, School of Economics, The University of Sydney
-* 2018-Present: Assistant Professor, Department of Economics, Simon Fraser University
+* *2013-2018*: Assistant Professor, School of Economics, The University of Sydney
+* *2018-Present*: Assistant Professor, Department of Economics, Simon Fraser University
   
 Research
 ======
