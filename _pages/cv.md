@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](https://kschnepel.github.io/files/CV.pdf)
+[Download full CV here](https://kschnepel.github.io/files/Schnepel_CV.pdf)
 
 Education
 ======
