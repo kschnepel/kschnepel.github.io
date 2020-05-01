@@ -6,7 +6,7 @@ permalink: /research/2020-Diversion-paper-8
 date: 2020-01-01
 venue: 'The Review of Economic Studies (forthcoming)'
 #paperurl: 'http://kschnepel.github.io/files/Diversion.pdf'
-citation: 'Mueller-Smith, Michael, & Kevin T. Schnepel (2018). &quot;Diversion in the Criminal Justice System.&quot; <i>The Review of Economic Studies</i>. Forthcoming.'
+citation: 'Mueller-Smith, Michael, and Kevin T. Schnepel (2018). &quot;Diversion in the Criminal Justice System.&quot; <i>The Review of Economic Studies</i>. Forthcoming.'
 ---
 
 **Abstract:** This paper provides the first causal estimates on the popular, cost-saving practice of
