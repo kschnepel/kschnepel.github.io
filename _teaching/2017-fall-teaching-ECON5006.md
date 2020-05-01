@@ -10,4 +10,4 @@ location: "Sydney, Australia"
 
 This unit of study introduces tools to study the impact of laws and public policy on individual behaviours. We will critically evaluate
 empirical research produced by economists, sociologists, criminologists, and legal scholars. Topics will focus on criminal justice policy
-but will also cover other areas of law such as labour and social policy.
+but will also cover other areas of law such as labour and social policy. [*Also taught in 2016*]
