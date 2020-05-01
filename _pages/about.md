@@ -12,6 +12,8 @@ Welcome to my website! I am an economist at Simon Fraser University working acro
 
 Primary fields: *Economics of Crime, Health Economics, Labor Economics, Environmental Economics*
 
+:maple_leaf:
+
 
 
 
