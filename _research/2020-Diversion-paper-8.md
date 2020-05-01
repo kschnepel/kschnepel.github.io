@@ -6,14 +6,8 @@ permalink: /research/2020-Diversion-paper-8
 date: 2020-01-01
 venue: 'The Review of Economic Studies (forthcoming)'
 #paperurl: 'http://kschnepel.github.io/files/Diversion.pdf'
-#citation: 'Mueller-Smith, Michael, & Kevin T. Schnepel (2018). &quot;Diversion in the Criminal Justice System.&quot; <i>The Review of Economic Studies</i>. Forthcoming.'
+citation: 'Mueller-Smith, Michael, & Kevin T. Schnepel (2018). &quot;Diversion in the Criminal Justice System.&quot; <i>The Review of Economic Studies</i>. Forthcoming.'
 ---
-
-Citation: Mueller-Smith, Michael, & Kevin T. Schnepel (2020). &quot;Diversion in the Criminal Justice System.&quot; <i>The Review of Economic Studies</i>. Forthcoming.
-
-[Download most recent version.](http://kschnepel.github.io/files/Diversion.pdf) 
-
-Media coverage: [My own podcast interview for Probable Causation](https://www.probablecausation.com/podcasts/episode-5-kevin-schnepel) 
 
 **Abstract:** This paper provides the first causal estimates on the popular, cost-saving practice of
 diversion in the criminal justice system, an intervention that provides offenders with a
@@ -27,3 +21,7 @@ black men. An investigation of mechanisms indicates that stigma associated with 
 felony conviction plays a key role in generating these results. Other possible mechanisms
 including changes in incarceration, universal adjustments in policy or practice, and
 differences in criminal processing are ruled out empirically.
+
+[Download most recent version.](http://kschnepel.github.io/files/Diversion.pdf) 
+
+Media coverage: [My own podcast interview for Probable Causation](https://www.probablecausation.com/podcasts/episode-5-kevin-schnepel) 
