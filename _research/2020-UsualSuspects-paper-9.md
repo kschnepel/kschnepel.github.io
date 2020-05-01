@@ -1,7 +1,7 @@
 ---
 title: "Hanging Out with the Usual Suspects: Peer Effects and Recidivism"
 collection: research
-permalink: /research/2020-UsualSuspects-paper-9.md
+permalink: /research/2020-UsualSuspects-paper-9
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-03-01
 venue: 'Working Paper (revision resubmitted to the Journal of Human Resources)'
