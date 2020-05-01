@@ -9,7 +9,7 @@ venue: 'Draft in progress'
 #citation: 'Billings, Stephen B., and Kevin T. Schnepel (2020). &quot;Hanging Out with the Usual Suspects: Peer Effects and Recidivism.&quot; <i>Working Paper</i>.'
 ---
 
-*This is work with Tim Moore (Purdue University). A draft is in progress and not ready for circulation. Please e-mail for recent version*
+*This is work with Tim Moore (Purdue University). A draft is in progress and not ready for circulation. Please e-mail for recent version.*
 
 **Abstract:**: Starting in late 2000, Australia experienced a large negative heroin supply 
 shock that persisted for several years. We use drug treatment records to identify more than 
