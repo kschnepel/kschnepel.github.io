@@ -6,10 +6,8 @@ permalink: /research/2009-CollegeFootballCrime-paper-1
 date: 2009-02-01
 venue: 'Journal of Sports Economics'
 #paperurl: 'https://doi.org/10.1177/1527002508327389'
-#citation: 'Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics</i>. 10(1).'
+citation: 'Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics</i>. 10(1).'
 ---
-
-Citation: Rees, Daniel I., and Kevin T. Schnepel. (2009). &quot;College Football Games and Crime.&quot; <i>Journal of Sports Economics</i>. 10(1).
 
 [Link to paper on journal's website.](https://doi.org/10.1177/1527002508327389) *E-mail me for a copy if you do not have free access*
 
