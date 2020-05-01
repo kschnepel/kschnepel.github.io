@@ -19,13 +19,9 @@ Education
 
 Academic Appointments
 ======
-* 2013-2018: Assistant Professor
-  * The University of Sydney
-
-* 2018-Present: Assistant Professor
-  * Simon Fraser University
+* 2013-2018: Assistant Professor, School of Economics, The University of Sydney
+* 2018-Present: Assistant Professor, Department of Economics, Simon Fraser University
   
-
 Research
 ======
   <ul>{% for post in site.research %}
