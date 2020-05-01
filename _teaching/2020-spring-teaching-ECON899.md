@@ -1,7 +1,7 @@
 ---
 title: "MA Research Paper"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course (MA level)"
 permalink: /teaching/2020-spring-teaching-ECON899
 venue: "Simon Fraser University, Department of Economics"
 date: 2020-01-01
