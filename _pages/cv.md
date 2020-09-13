@@ -13,15 +13,15 @@ redirect_from:
 
 Education
 ======
-* B.A. in Accounting and Finance, Loyola University New Orleans, 2002
-* M.A. in Economics, University of Colorado Denver, 2007
 * Ph.D in Economics, Uninversity of California Santa Barbara, 2013 
+* M.A. in Economics, University of Colorado Denver, 2007
+* B.A. in Accounting and Finance, Loyola University New Orleans, 2002
 
 Primary Academic Appointments
 ======
-* *2013-2018*: Assistant Professor, School of Economics, The University of Sydney
 * *2018-Present*: Assistant Professor, Department of Economics, Simon Fraser University
-  
+* *2013-2018*: Assistant Professor, School of Economics, The University of Sydney
+
 Research
 ======
   <ul>{% for post in site.research reversed %}
