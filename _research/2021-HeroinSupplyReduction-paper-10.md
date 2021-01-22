@@ -1,7 +1,7 @@
 ---
 title: "Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply"
 collection: research
-permalink: /research/2020-HeroinSupplyReduction-paper-10
+permalink: /research/2021-HeroinSupplyReduction-paper-10
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-01-01
 venue: 'Working Paper'
