@@ -9,14 +9,6 @@ venue: 'Draft in progress'
 #citation: 'Billings, Stephen B., and Kevin T. Schnepel (2020). &quot;Hanging Out with the Usual Suspects: Peer Effects and Recidivism.&quot; <i>Working Paper</i>.'
 ---
 
-*This is work with Tim Moore (Purdue University). A draft is in progress and not ready for circulation. Please e-mail for recent version.*
+[Download most recent version.](http://kschnepel.github.io/files/MooreSchnepel_Draft_Jan2021.pdf) 
 
-**Abstract:**: Starting in late 2000, Australia experienced a large negative heroin supply 
-shock that persisted for several years. We use drug treatment records to identify more than 
-27,000 individuals using opioids prior to the shock, and examine how it affected their health 
-and criminal activity. We find that opioid users initially substituted to other illicit drugs 
-and committed more offenses, especially for violent crimes. Most of these effects dissipate 
-after one year, and are followed by a large decrease in property crime. A sustained reduction 
-in opioid-related mortality is only slightly offset by increases in other causes of death. 
-Our results show that reducing the supply of illicit opioids can lead to meaningful long-term 
-improvements in key health and crime outcomes, even if the effects are ambiguous in the short term.
+**Abstract:**: In 2001, a large and sustained supply shock halted a heroin epidemic in Australia. We use treatment records to identify 27,467 opioid users and examine how this shock affected their health and criminal activity over the next eight years. An initial decrease in mortality is offset by substitution to other drugs and an increase in crime. Most adverse effects dissipate after one year, and are followed by continued mortality improvements and a large decrease in property crime. Our results demonstrate that reducing the supply of illicit opioids can lead to meaningful longer-term improvements, even when the short-term effects are ambiguous.
