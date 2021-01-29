@@ -22,7 +22,7 @@ felony conviction plays a key role in generating these results. Other possible m
 including changes in incarceration, universal adjustments in policy or practice, and
 differences in criminal processing are ruled out empirically.
 
-[REStud link.]{https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdaa030/5856753?redirectedFrom=fulltext}
+[REStud link.](https://academic.oup.com/restud/advance-article-abstract/doi/10.1093/restud/rdaa030/5856753?redirectedFrom=fulltext)
 
 [Download most recent version.](http://kschnepel.github.io/files/Diversion.pdf) 
 
