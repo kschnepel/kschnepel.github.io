@@ -18,4 +18,6 @@ arrest and incarceration data that includes residential addresses for offenders,
 consistent and robust evidence that a former inmate is less likely to reoffend if more of
 his peers are held captive while he reintegrates into society.
 
+[JHR link.](http://jhr.uwpress.org/content/early/2020/10/02/jhr.58.1.0819-10353R2.abstract)
+
 [Download most recent version.](http://kschnepel.github.io/files/UsualSuspects.pdf) 
