@@ -20,7 +20,7 @@ This work was covered by the [Guardian](https://www.theguardian.com/us-news/2021
 
 ### Articles and op eds
 
-* 2021: Microeconomic Insights, ["Second chance: the social benefits of diversion in the criminal justice system"](https://microeconomicinsights.org/second-chance-the-social-benefits-of-diversion-in-the-criminal-justice-system/)
+* March 2021: Microeconomic Insights, ["Second chance: the social benefits of diversion in the criminal justice system"](https://microeconomicinsights.org/second-chance-the-social-benefits-of-diversion-in-the-criminal-justice-system/)
 
-* 2017: IZA World of Labor, ["When it comes to reducing the reoffending rate of released prisoners it is the quality of available jobs that matters"](https://wol.iza.org/press-releases/do-post-prison-job-opportunities-reduce-recidivism)
+* November 2017: IZA World of Labor, ["When it comes to reducing the reoffending rate of released prisoners it is the quality of available jobs that matters"](https://wol.iza.org/press-releases/do-post-prison-job-opportunities-reduce-recidivism)
 
