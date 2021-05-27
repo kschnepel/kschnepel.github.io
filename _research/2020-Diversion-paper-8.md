@@ -26,4 +26,4 @@ differences in criminal processing are ruled out empirically.
 
 [Download most recent version.](http://kschnepel.github.io/files/Diversion.pdf) 
 
-Media coverage: [Chicago Booth Review](https://review.chicagobooth.edu/public-policy/2021/article/don-t-convict-low-risk-offenders-divert-them), [Microeconomic Insights](https://microeconomicinsights.org/second-chance-the-social-benefits-of-diversion-in-the-criminal-justice-system/), [Probable Causation](https://www.probablecausation.com/podcasts/episode-5-kevin-schnepel)
+Media coverage: [Chicago Booth Review](https://review.chicagobooth.edu/public-policy/2021/article/don-t-convict-low-risk-offenders-divert-them), [Microeconomic Insights](https://microeconomicinsights.org/second-chance-the-social-benefits-of-diversion-in-the-criminal-justice-system/), [Probable Causation](https://www.probablecausation.com/podcasts/episode-5-kevin-schnepel), [Collateral Consequence Resource Center](https://ccresourcecenter.org/2021/02/23/study-texas-diversion-provides-dramatic-benefits-for-people-facing-their-first-felony/)
