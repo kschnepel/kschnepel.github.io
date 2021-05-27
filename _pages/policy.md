@@ -1,12 +1,10 @@
 ---
-permalink: /
-title: ""
-excerpt: "Policy Engagement and Research Reports"
+layout: archive
+title: "Policy engagement and research reports"
+permalink: /policy/
 author_profile: true
-redirect_from: 
-  - /policy/
-  - /policy.html
 ---
+
 
 ## Reports for the National Commission on COVID-19 and Criminal Justice 
 
