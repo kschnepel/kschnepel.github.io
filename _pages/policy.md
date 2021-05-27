@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Reports for the National Commission on COVID-19 and Criminal Justice 
+# Reports for the National Commission on COVID-19 and Criminal Justice 
 
 * April 2021: [*COVID-19 Testing in State Prisons*](https://covid19.counciloncj.org/2021/04/01/covid-19-testing-in-state-prisons/)
 
@@ -18,7 +18,7 @@ redirect_from:
 
 Media coverage of this work: 
 
-## Opionion pieces
+# Opionion pieces
 
 * 2017, IZA World of Labor, ["When it comes to reducing the reoffending rate of released prisoners it is the quality of available jobs that matters"](https://wol.iza.org/press-releases/do-post-prison-job-opportunities-reduce-recidivism)
 
