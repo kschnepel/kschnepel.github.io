@@ -16,6 +16,8 @@ redirect_from:
 
 * Septempber 2020: [*COVID-19 and Prisons*](https://covid19.counciloncj.org/2020/09/02/covid-19-and-prisons/)
 
+Media coverage of this work: 
+
 ## Opionion pieces
 
 * 2017, IZA World of Labor, ["When it comes to reducing the reoffending rate of released prisoners it is the quality of available jobs that matters"](https://wol.iza.org/press-releases/do-post-prison-job-opportunities-reduce-recidivism)
