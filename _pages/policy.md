@@ -3,6 +3,8 @@ layout: archive
 title: "Policy engagement and research reports"
 permalink: /policy/
 author_profile: true
+redirect_from:
+  - /policy
 ---
 
 
