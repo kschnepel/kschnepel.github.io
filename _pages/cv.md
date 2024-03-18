@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Uninversity of California Santa Barbara, 2013 
+* Ph.D in Economics, University of California Santa Barbara, 2013 
 * M.A. in Economics, University of Colorado Denver, 2007
 * B.A. in Accounting and Finance, Loyola University New Orleans, 2002
 
