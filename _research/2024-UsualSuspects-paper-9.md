@@ -1,12 +1,12 @@
 ---
 title: "Hanging Out with the Usual Suspects: Peer Effects and Recidivism"
 collection: research
-permalink: /research/2020-UsualSuspects-paper-9
+permalink: /research/2024-UsualSuspects-paper-9
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-03-01
-venue: 'Journal of Human Resources (forthcoming)'
+date: 2024-03-01
+venue: 'Journal of Human Resources' 
 #paperurl: 'http://kschnepel.github.io/files/UsualSuspects.pdf'
-citation: 'Billings, Stephen B., and Kevin T. Schnepel (2020). &quot;Hanging Out with the Usual Suspects: Peer Effects and Recidivism.&quot; <i>Journal of Human Resources</i>. Forthcoming.'
+citation: 'Billings, Stephen B., and Kevin T. Schnepel (2020). &quot;Hanging Out with the Usual Suspects: Peer Effects and Recidivism.&quot; <i>Journal of Human Resources</i>. 59(2): 1758-1788.'
 ---
 
 **Abstract:** Social interactions within neighborhoods, schools and detention facilities are important
