@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2024-HeroinSupplyReduction-paper-10
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-15
-venue: 'Review of Economics and Statistics'
+venue: 'Review of Economics and Statistics (forthcoming)'
 #paperurl: 'http://kschnepel.github.io/files/MooreSchnepel_Jan2024.pdf'
 citation: 'Moore, Timothy J. and Kevin T. Schnepel (2024). &quot;Opioid Use, Health and Crime: Insights from a Rapid Reduction in Heroin Supply.&quot;  (previously circulated as <i>NBER Working Paper No. 28848</i>).'
 ---
