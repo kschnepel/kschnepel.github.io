@@ -12,9 +12,8 @@ author_profile: true
 
 ### Works in Progress
 
-* *"Does nothing stop a bullet like a job? The effects of income on crime"*, with Jens Ludwig (Review article requested for the *Annual Review of Criminology*
-* *"Paid too soon: Monthly assistance payments and crime in Vancouver"*, with Hamza Abdelrahman
 * *"Better Stealing Than Dealing? The Effects of Felony Theft Thresholds"*, with Steve Billings, Mike Makowsky and Adam Soliman 
+* *"Paid too soon: Monthly assistance payments and crime in Vancouver"*, with Hamza Abdelrahman
 * *"Drinking Water Contaminants and Infant Health"*, with Katie Grooms and Heather Royer
 * *"Early life health investment and childhood development: Evidence from special care nursery assignment in Australia's Northern Territory"*, with Steve Guthridge and Stefanie Schurer
 
