@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2023-SNAPBans-paper
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-12-01
-venue: 'NBER Working Paper' 
+venue: 'NBER Working Paper (Revisions requested by the Journal of Political Economy)' 
 #paperurl: '[http://kschnepel.github.io/files/CJARS_Safety_Net_Bans_20240830.pdf](https://www.nber.org/papers/w31983)'
 citation: 'Mueller-Smith, Michael G., James M. Reeves, Kevin Schnepel, and Caroline Walker (2023). &quot;The Direct and Intergenerational Effects of Criminal History-Based Safety Net Bans in the US..&quot; <i>National Bureau of Economic Research</i>'
 ---
