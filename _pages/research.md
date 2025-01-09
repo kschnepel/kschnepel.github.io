@@ -14,6 +14,7 @@ author_profile: true
 
 * *"Better Stealing Than Dealing? The Effects of Felony Theft Thresholds"*, with Steve Billings, Mike Makowsky and Adam Soliman 
 * *"Paid too soon: Monthly assistance payments and crime in Vancouver"*, with Hamza Abdelrahman
+* *"The Long-term Benefits of Removing Lead Exposure: Evidence from the Omaha Superfund Site Cleanup"*, with Steve Billings, Mike Mueller-Smith and Danny Tannenbaum 
 * *"Drinking Water Contaminants and Infant Health"*, with Katie Grooms and Heather Royer
 * *"Early life health investment and childhood development: Evidence from special care nursery assignment in Australia's Northern Territory"*, with Steve Guthridge and Stefanie Schurer
 
