@@ -9,4 +9,4 @@ venue: 'JAMA'
 citation: 'Nosyk, Bohdan, and others (2024). &quot;Buprenorphine/Naloxone vs Methadone for the Treatment of Opioid Use Disorder.&quot; <i>JAMA</i>. 332(21): 1822-1831.'
 ---
 
-\href{https://jamanetwork.com/journals/jama/article-abstract/2825088}{JAMA link}
+[JAMA link](https://jamanetwork.com/journals/jama/article-abstract/2825088)
