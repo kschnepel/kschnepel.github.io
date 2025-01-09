@@ -4,7 +4,7 @@ collection: research
 permalink: /research/2024-LMCrimeReview-paper
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-04-01
-venue: 'The Annual Review of Criminology (forthcoming)' 
+venue: 'Annual Review of Criminology (forthcoming)' 
 #paperurl: '[http://kschnepel.github.io/files/w32297.pdf](https://www.nber.org/papers/w32297)'
 citation: 'Ludwig, Jens, and Kevin Schnepel (2024). &quot;Does nothing stop a bullet like a job? The effects of income on crime&quot; forthcoming in <i>Annual Review of Criminology</i>, previously circulated as <i>NBER Working Paper No. w32297</i>'
 ---
