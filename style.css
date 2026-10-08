@@ -205,13 +205,18 @@ h3 a:hover { color: var(--accent); }
 /* Dated lists (policy, CV) */
 .dated { list-style: none; padding: 0; margin: 0; }
 .dated li {
-  display: grid;
-  grid-template-columns: 6.5rem 1fr;
-  gap: 0 1rem;
-  padding: 0.35rem 0;
+  position: relative;
+  padding: 0.35rem 0 0.35rem 7.5rem;
 }
-.dated .date { color: var(--faint); font-size: 0.9rem; font-variant-numeric: tabular-nums; padding-top: 0.1rem; }
-.dated .outlet { grid-column: 2; color: var(--muted); font-size: 0.88rem; font-style: italic; }
+.dated .date {
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  color: var(--faint);
+  font-size: 0.9rem;
+  font-variant-numeric: tabular-nums;
+}
+.dated .outlet { display: block; color: var(--muted); font-size: 0.88rem; font-style: italic; }
 .coverage { color: var(--muted); font-size: 0.93rem; margin-top: 0.75rem; }
 
 .button {
@@ -243,6 +248,6 @@ h3 a:hover { color: var(--accent); }
   .hero { flex-direction: column; align-items: flex-start; gap: 1.25rem; padding-top: 2rem; }
   .hero-photo { width: 128px; }
   .hero h1 { font-size: 2rem; }
-  .dated li { grid-template-columns: 1fr; }
-  .dated .outlet { grid-column: 1; }
+  .dated li { padding-left: 0; }
+  .dated .date { position: static; display: block; }
 }
