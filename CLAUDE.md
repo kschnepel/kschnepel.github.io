@@ -26,7 +26,7 @@ stay in sync. Verify citations against Crossref (`https://api.crossref.org/works
 | `index.html` | **All the content.** One page with these sections in order: header, About, Research (Publications, Working Papers, Work in Progress, Other Writing), Policy & Media, CV, footer. Each section starts with a `===== N. NAME =====` comment. |
 | `style.css` | The look. Colors are defined once at the top, and dark mode swaps them. |
 | `files/` | PDFs: CV and paper drafts. **Never rename or delete these.** Other sites, old CVs, and Google Scholar link to them. Add new files next to the old ones. |
-| `images/headshot.jpg` | The photo, resized to 640px. `websitepic2.png` is the full-size original. |
+| `images/headshot.jpg` | The photo: a 640px square crop of `schnepel_headshot_2025_dog.jpeg` (the full-size original). |
 | `404.html` | Sends old URLs from the pre-2026 site (`/research/`, `/cv/`, single paper pages) to the right spot on the new page. |
 
 ## Common updates
