@@ -23,7 +23,7 @@ stay in sync. Verify citations against Crossref (`https://api.crossref.org/works
 
 | File / folder | What it is |
 |---|---|
-| `index.html` | **All the content.** One page with these sections in order: header, About, Research (Publications, Working Papers, Work in Progress, Other Writing), Policy & Media, CV, footer. Each section starts with a `===== N. NAME =====` comment. |
+| `index.html` | **All the content.** One page with these sections in order: header, About, Research (Current Projects and Working Papers, then Publications, then Other Writing), Policy & Media, CV, footer. Each section starts with a `===== N. NAME =====` comment. |
 | `style.css` | The look. Colors are defined once at the top, and dark mode swaps them. |
 | `files/` | PDFs: CV and paper drafts. **Never rename or delete these.** Other sites, old CVs, and Google Scholar link to them. Add new files next to the old ones. |
 | `images/headshot.jpg` | The photo: a 640px square crop of `schnepel_headshot_2025_dog.jpeg` (the full-size original). |
@@ -40,7 +40,7 @@ Lists run newest first. Each block has:
 - `abstract` (optional): `<div class="abstract"><p>…</p></div>`
 - `media` (optional): `In the media: <a>Outlet</a>, …`
 
-**A working paper gets accepted.** Move its block from Working Papers to the top of
+**A working paper gets accepted.** Move its block from Current Projects and Working Papers to the top of
 Publications. Update `paper-meta` and add a "Journal" link. Keep the `id`.
 
 **New CV.** Kevin compiles `../cv/cv.tex` on Overleaf and saves the PDF in `../cv/`.
