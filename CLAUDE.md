@@ -4,6 +4,21 @@ Live at **https://kschnepel.github.io**. GitHub Pages serves the `master` branch
 `github.com/kschnepel/kschnepel.github.io` as-is. There is no build step and no Jekyll
 (`.nojekyll` turns it off). Whatever is in this folder is the site.
 
+## Where things live
+
+```
+~/Dropbox/mywebsite/
+├── kschnepel.github.io/   ← this folder: the website (everything here is PUBLIC)
+└── cv/                    ← CV source: cv.tex + res.cls (compiled on Overleaf)
+```
+
+The CV source stays outside the site folder on purpose. It contains commented-out
+material that shouldn't be published. Only the compiled PDF goes into `files/`.
+
+`cv.tex` uses latin9 input encoding, so write plain ASCII in it: `--` for a dash and
+`` ``…'' `` for quotes. When papers change, update **both** `cv.tex` and `index.html` so they
+stay in sync. Verify citations against Crossref (`https://api.crossref.org/works/<DOI>`).
+
 ## Files
 
 | File / folder | What it is |
@@ -28,7 +43,8 @@ Lists run newest first. Each block has:
 **A working paper gets accepted.** Move its block from Working Papers to the top of
 Publications. Update `paper-meta` and add a "Journal" link. Keep the `id`.
 
-**New CV.** Add the PDF as `files/Schnepel_CV_YYYY.pdf` and keep the old one. Then
+**New CV.** Kevin compiles `../cv/cv.tex` on Overleaf and saves the PDF in `../cv/`.
+Copy it in as `files/Schnepel_CV_YYYY.pdf` and keep the old one. Then
 update the **two** links that point to it in `index.html`: the header "CV (PDF)" chip
 and the "Download full CV" button in the CV section.
 
@@ -37,7 +53,7 @@ and the "Download full CV" button in the CV section.
 ## Preview locally
 
 ```bash
-cd ~/Dropbox/kschnepel.github.io && python3 -m http.server 8000
+cd ~/Dropbox/mywebsite/kschnepel.github.io && python3 -m http.server 8000
 ```
 
 Then open http://localhost:8000. Opening `index.html` directly also works, except for `404.html`.
