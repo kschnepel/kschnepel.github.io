@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Page not found · Kevin Schnepel</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="/style.css">
+  <script>
+    // The old site (before 2026) had separate pages. Send those old links to the
+    // matching spot on the new single page. Left side: old path. Right side: section/paper id.
+    var OLD_LINKS = {
+      '/about': '',
+      '/research': 'research',
+      '/policy': 'policy',
+      '/cv': 'cv',
+      '/resume': 'cv',
+      '/teaching': '',
+      '/research/2009-CollegeFootballCrime-paper-1': 'college-football',
+      '/research/2016-EconomicsIncarceration-paper-2': 'incarceration-review',
+      '/research/2017-ClusterHeterogeneity-paper-4': 'cluster-t-test',
+      '/research/2017-HealthyHome-paper-5': 'healthy-home',
+      '/research/2017-JobOpportunitiesRecidivism-paper-3': 'iza-recidivism',
+      '/research/2018-GoodJobsRecidivism-paper-6': 'good-jobs',
+      '/research/2018-LifeAfterLead-paper-7': 'life-after-lead',
+      '/research/2020-Diversion-paper-8': 'diversion',
+      '/research/2023-SNAPBans-paper': 'safety-net-bans',
+      '/research/2024-HeroinSupplyReduction-paper-10': 'heroin-supply',
+      '/research/2024-JAMA-paper': 'jama-opioid',
+      '/research/2024-LMCrimeReview-paper': 'income-crime',
+      '/research/2024-UsualSuspects-paper-9': 'usual-suspects'
+    };
+    var path = location.pathname.replace(/\.html$/, '').replace(/\/+$/, '');
+    if (path in OLD_LINKS) {
+      location.replace('/' + (OLD_LINKS[path] ? '#' + OLD_LINKS[path] : ''));
+    }
+  </script>
+</head>
+<body>
+  <main>
+    <section>
+      <h2>Page not found</h2>
+      <p>This page doesn't exist anymore. Everything is now on the <a href="/">main page</a>.</p>
+    </section>
+  </main>
+</body>
+</html>
