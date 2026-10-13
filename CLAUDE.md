@@ -72,3 +72,6 @@ and push only after he approves.
 - Plain HTML only. No frameworks, build tools, or new JavaScript dependencies.
 - Use typographic quotes and dashes (’ “ ” –).
 - The old Jekyll/AcademicPages site is in git history (before the 2026 redesign commit) if anything needs recovering.
+- Work on the `master` branch (the `redesign` branch was merged in October 2026).
+- If git reports "unable to unlink ... Operation not permitted", the file probably has the macOS **Locked** flag (common for files saved from Outlook). Check with `ls -lO <file>` (shows `uchg`) and unlock with `chflags nouchg <file>`.
+- Publishing uses Kevin's GitHub sign-in through the `gh` tool (`/opt/homebrew/bin/gh`). If a push is refused, have him run `gh auth login`.
