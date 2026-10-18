@@ -23,7 +23,7 @@ stay in sync. Verify citations against Crossref (`https://api.crossref.org/works
 
 | File / folder | What it is |
 |---|---|
-| `index.html` | **All the content.** One page with these sections in order: header, About, Research (Current Projects and Working Papers, then Publications, then Other Writing), Policy & Media, CV, footer. Each section starts with a `===== N. NAME =====` comment. |
+| `index.html` | **All the content.** One page with these sections in order: header, About, Research (Current Projects and Working Papers, then Publications, then Other Writing, then Inactive Working Papers), Policy & Media, CV, footer. Each section starts with a `===== N. NAME =====` comment. |
 | `style.css` | The look. Colors are defined once at the top, and dark mode swaps them. |
 | `files/` | PDFs: CV and paper drafts. **Never rename or delete these.** Other sites, old CVs, and Google Scholar link to them. Add new files next to the old ones. |
 | `images/headshot.jpg` | The photo: a 640px square crop of `schnepel_headshot_2025_dog.jpeg` (the full-size original). |
